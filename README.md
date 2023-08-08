@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imran Ahmed 😊</h1>
 <h3 align="center">A DevOps guy 👨‍💻 from India</h3>
 
-- 🔭 I’m currently working on [Jenkins,Terraform, Ansible, Docker, kubernates](https://github.com/Imran-Ahmed27/prodigital.git)
+- 🔭 I’m currently working on [AWS Jenkins,Terraform, Ansible, Docker, kubernates](https://github.com/Imran-Ahmed27/prodigital.git)
 
 - 🌱 I’m currently learning **Cloud infrastructure and various DevOps tools**
 
