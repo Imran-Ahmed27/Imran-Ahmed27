@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imran Ahmed 😊</h1>
 <h3 align="center">A DevOps guy 👨‍💻 from India</h3>
 
-<<<<<<< HEAD
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran-ahmed27&label=Profile%20views&color=0e75b6&style=flat" alt="imran-ahmed27" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imran-ahmed27" alt="imran-ahmed27" /></a> </p>
@@ -9,9 +8,6 @@
 <p align="left"> <a href="https://twitter.com/imran_ahmed27" target="blank"><img src="https://img.shields.io/twitter/follow/imran_ahmed27?logo=twitter&style=for-the-badge" alt="imran_ahmed27" /></a> </p>
 
 - 🔭 I’m currently working on [DevOps and Cloud Platforms](https://github.com/Imran-Ahmed27/prodigital.git)
-=======
-- 🔭 I’m currently working on [AWS Jenkins,Terraform, Ansible, Docker, kubernates](https://github.com/Imran-Ahmed27/prodigital.git)
->>>>>>> 21335a57c3728e5eb0f9bf54b78ee4d54912a27d
 
 - 🌱 I’m currently learning **Cloud infrastructure and various DevOps tools**
 
@@ -32,7 +28,7 @@
 <a href="https://twitter.com/imran_ahmed27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imran_ahmed27" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/imranahmed27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imranahmed27/" height="30" width="40" /></a>
 <a href="https://instagram.com/imran.0127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imran.0127" height="30" width="40" /></a>
-<a href="https://discord.gg/discordapp.com/users/1038155087895334952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/1038155087895334952" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/jBkW6gnA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/jBkW6gnA" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
