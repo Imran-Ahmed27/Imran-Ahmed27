@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/imran_ahmed27" target="blank"><img src="https://img.shields.io/twitter/follow/imran_ahmed27?logo=twitter&style=for-the-badge" alt="imran_ahmed27" /></a> </p>
 
-- 🔭 I’m currently working on [DevOps and Cloud Platforms](https://github.com/Imran-Ahmed27/prodigital.git)
+- 🔭 I’m currently working on [DevOps automation and Cloud Platforms](https://github.com/Imran-Ahmed27/prodigital.git)
 
 - 🌱 I’m currently learning **Cloud infrastructure and various DevOps tools**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Imran-Ahmed27](https://github.com/Imran-Ahmed27)
 
-- 📝 I regularly write articles on [DevOps automation](DevOps automation)
+- 📝 I regularly write articles on [DevOps and Cloud](DevOps and Cloud)
 
 - 💬 Ask me about **DevOps and Cloud**
 
@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imran_ahmed27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imran_ahmed27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/imranahmed27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imranahmed27" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imranahmed27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imranahmed27" height="30" width="40" /></a>
 <a href="https://instagram.com/imran.0127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imran.0127" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/jBkW6gnA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/jBkW6gnA" height="30" width="40" /></a>
 </p>
